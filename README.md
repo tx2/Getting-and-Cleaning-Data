@@ -1,5 +1,3 @@
-Getting-and-Cleaning-Data
-=========================
 # run_analisys.R Script
 
 ## Running the Script
