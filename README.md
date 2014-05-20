@@ -2,8 +2,8 @@
 
 ## Running the Script
 ### Pre-requisites:
-*The package reshape2 have to be installed
-*The folder "UCI HAR Dataset" has to be on the root of the working directory
+* The package reshape2 have to be installed
+* The folder "UCI HAR Dataset" has to be on the root of the working directory
 
 ### Output
 
